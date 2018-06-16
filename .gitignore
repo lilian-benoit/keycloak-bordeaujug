@@ -1,0 +1,6 @@
+# Fichiers eclipse
+.project
+.settings
+
+# Fichiers maven
+target
