@@ -1,6 +1,7 @@
 # Fichiers eclipse
 .project
 .settings
+.classpath
 
 # Fichiers maven
 target
