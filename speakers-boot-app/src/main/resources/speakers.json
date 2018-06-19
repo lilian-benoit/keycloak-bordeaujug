@@ -1,0 +1,272 @@
+[
+   {
+      "bio" : "Diplômé de l’ENSEIRB, Ahmed est actuellement architecte SOA/J2EE au sein de CSSI. Il intervient sur des missions de mise en place des architectures logicielles des projets de développements en forfait ou en assistance technique. Il travaille aussi sur un chantier de standardisation des environnements de développement et d’intégration continue au sein de CS et sur la réalisation d’un framework SOA transverse.",
+      "twitter" : "",
+      "id" : {
+         "value" : "aalahmi"
+      },
+      "lastName" : "Alami",
+      "urlAvatar" : "http://lh4.ggpht.com/_apLykarZbI4/SciPPyC4rBI/AAAAAAAAAOE/sGaB3gsONe0/s288/ahmedalami.jpg",
+      "firstName" : "Ahmed"
+   },
+   {
+      "lastName" : "Ancelin",
+      "urlAvatar" : "https://lh3.googleusercontent.com/GoMQH8Hspkq3KQEwpDXVPtig30UWwFzsJ2Pqdk4arfM0bHA1RE1PM4xDzrrZ1SO1yjgBpkkJOxpyKXL9nh2bSgJ7eVgBplZnNBw9eHfY3owX9GfZaX5niZ1gAVD6Ncf0Oycq6HRtzQ=s100-no",
+      "firstName" : "Mathieu",
+      "twitter" : "",
+      "id" : {
+         "value" : "mancelin"
+      },
+      "bio" : "Mathieu ANCELIN est développeur à SERLI, spécialisé dans la programmation web et les frameworks web modernes avec un bon background autour des technologies Scala/Java. Mathieu est impliqué dans plusieurs projets open-source et en lead également quelques un comme ReactiveCouchbase. Il fait partie de l'équipe du Poitou-Charentes JUG."
+   },
+   {
+      "id" : {
+         "value" : "saugereau"
+      },
+      "twitter" : "@saugereau33",
+      "bio" : "Sebastien est ingénieur depuis plus de 10 ans, après un passage par un éditeur de logiciel il s'est orienté vers le consulting en tant qu'ingenieur puis architecte en SSII.\r\nIl a une préférence évidente pour les stacks opensource et technologie Java, mais reste ouvert aux autres langages tel que Python, Scala ou même encore .Net. Plutôt orienté Back-End, il sait parfois aussi mettre en oeuvre son sens du design épuré voir spartiate, pour faire travailler ses compétences autour du Front-End. Actuellement il s'intéresse particulièrement aux systèmes répartis et hautement scalable (Kafka, MongoDb, Cassandra)\r\nOn peut le trouver sur Twitter (@saugereau33), sur son blog (saugereau.github.io) ou même encore lors des sessions du Bordeaux JUG.",
+      "urlAvatar" : "https://lh3.googleusercontent.com/GoMQH8Hspkq3KQEwpDXVPtig30UWwFzsJ2Pqdk4arfM0bHA1RE1PM4xDzrrZ1SO1yjgBpkkJOxpyKXL9nh2bSgJ7eVgBplZnNBw9eHfY3owX9GfZaX5niZ1gAVD6Ncf0Oycq6HRtzQ=s100-no",
+      "lastName" : "Augereau",
+      "firstName" : "Sébastien"
+   },
+   {
+      "firstName" : "Fabrice",
+      "lastName" : "Aupert",
+      "urlAvatar" : "http://lh5.ggpht.com/_apLykarZbI4/Sf7srj_YDDI/AAAAAAAAAPY/B5WFtwc-RqA/s144/fabriceaupert.jpg",
+      "bio" : "Fabrice Aupert est ingénieur CNAM, spécialisé dans le génie logiciel. Il officie actuellement en tant que chef de projet et architecte pour la société IT&L@bs. Après un début de carrière centré sur l'administration système, il s'est passionné pour les problématiques du développement logiciel. Mis à part un récent détour par .NET, il a principalement travaillé dans des environnements Java, principalement Open source.\r\nMembre du JUG de Wellington (NZ) puis de celui de Bordeaux, il apprécie de pouvoir échanger librement dans un cadre informel et convivial, autour d'un verre si possible.",
+      "id" : {
+         "value" : "faupert"
+      },
+      "twitter" : ""
+   },
+   {
+      "urlAvatar" : "http://www.gravatar.com/avatar/48469162d45686615c6bf0eb4304bf26",
+      "lastName" : "Bailly",
+      "firstName" : "Arnaud",
+      "bio" : "Après diverses péripéties, dont un passage en banque, la création d'une société d'édition de jeux de rôles, une thèse en informatique, diverses missions longues pour des SSII ou des éditeurs de logiciels, Arnaud travaille aujourd'hui en tant qu'indépendant au sein de la société Murex comme développeur/consultant/coach technique/homme à tout faire.\r\nIl se passionne pour tout ce qui a trait de près ou de loin au code, avec une dilection particulière pour l'univers Java côté serveur.",
+      "twitter" : "",
+      "id" : {
+         "value" : "abailly"
+      }
+   },
+   {
+      "twitter" : "",
+      "id" : {
+         "value" : "hbenmansour"
+      },
+      "bio" : "Hamza Ben Mansour est consultant Middleware Red Hat intervenant sur des missions d'expertises sur l'ensemble du portefeuille JBoss et plus particulièrement sur le serveur d'application et le moteur de règle.\r\nDepuis plus de 7 ans, il a été amené à travailler sur les plateformes d’intégration de grands acteurs financier dans le cadre des flux Straight Through Processing. Il a participé à la mise en place de plusieurs démarches SOA ce qui lui a permis d'avoir une bonne vue d'ensemble des différentes technologies impliquées.",
+      "firstName" : "Hamza",
+      "urlAvatar" : "https://lh5.googleusercontent.com/-df_CXiK9OII/UEhiPifiTKI/AAAAAAAAAwg/gxrRXrjSzpM/s445/photo.JPG",
+      "lastName" : "Ben Mansour"
+   },
+   {
+      "firstName" : "Lilian",
+      "urlAvatar" : "data:image/jpeg;base64,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",
+      "lastName" : "Benoit",
+      "bio" : "Lilian a 18 ans d'expérience. Tech Leader dans une ESN Bordelaise. il \nest passionné par l'informatique depuis bien plus longtemps. Il aime \ntravailler sur la plateforme Java : JVM et JavaEE, notamment sur sa \ndistribution préférée : Debian.\nDepuis 2014, Lilian est membre de l'équipe d'organisation du \nBordeauxJUG.",
+      "id" : {
+         "value" : "bbbb"
+      },
+      "twitter" : ""
+   },
+   {
+      "bio" : "mmanuel Bernard est architecte plate-forme données sur le portefeuille JBoss chez Red Hat. Il supervise comment les données et le middleware interagissent et travaille en particulier sur le portefeuille de projets Hibernate ainsi que sur le projet Infinispan.\r\nEmmanuel a rejoint l'équipe Hibernate en 2003 et depuis, son travail est quasiment 100% open source. Il a dirigé l'implémentation JPA d'Hibernate, fondé et dirigé Hibernate Search, Hibernate Validator. Sa dernière aventure est Hibernate OGM mais il contribue aussi à Infinispan, Ceylon, Awestruct et quelques autres projets pendant son temps libre.\r\n\r\nEmmanuel est le fondateur et co-hôte de deux podcasts: Les Cast Codeurs (Français) et JBoss Community Asylum (Anglais). Il est membre du groupe d'expertise JPA et spec lead de Bean Validation. Il intervient régulièrement dans diverses conférences et JUGs, dont JavaOne, Red Hat Summit et Devoxx. Il est le co-auteur d'Hibernate Search in Action publié par Manning.",
+      "twitter" : "@emmanuelbernard",
+      "id" : {
+         "value" : "ebernard"
+      },
+      "firstName" : "Emmanuel",
+      "urlAvatar" : "https://lh6.googleusercontent.com/-kySQdKstRGA/VW67McK_SsI/AAAAAAAABl4/r7T7c41OYag/w746-h1376-no/emmanuel-conf.jpg",
+      "lastName" : "Bernard"
+   },
+   {
+      "firstName" : "Alexandre",
+      "urlAvatar" : "https://lh6.googleusercontent.com/6gJrfcLJXeoqVH_FaQ7tp4zy_SetG7IlrJyZdYDhZgA=w191-h207-p-no",
+      "lastName" : "Bertails",
+      "bio" : "Alexandre est expert Linked Data à Pellucid Analytics. Auparavant au W3C. Code principalement en Scala et est intéressé par le Web, les données, et les questions d'anonymat et vie privée sur le Web.",
+      "twitter" : "",
+      "id" : {
+         "value" : "abertails"
+      }
+   },
+   {
+      "firstName" : "Jean",
+      "lastName" : "Bisutti",
+      "urlAvatar" : "https://lh3.googleusercontent.com/SNZMXppvzTn6ZuAIf-qzTky5bAP8gypC5dJX5WuDteQcwohSvrP5ywK3CZYY1u9mwIS_VA87m6xJCHTiihlDekI3PTzOYav-skKF_5mr1m0UYki_O_6kmBmLQwckWQCho-uEnaFZqQ=s180-no",
+      "twitter" : "",
+      "id" : {
+         "value" : "jbisutti"
+      },
+      "bio" : "Jean a décidé de s'orienter vers le développement Java, après avoir travaillé dans la recherche sur les fibres optiques. \nAdepte de pratiques de développement issues de la mouvance Software Craftsmanship (TDD, pair programming, BDD, clean code, ...), il apprécie en faire la promotion.\nJean travaille pour la société Arolla. Il développe et intervient sur des problématiques de performance.\nActuellement, Jean développe aussi une libraire Java facilitant la mise en place d'une approche TDD sous un angle performance. Prochainement disponible en open source."
+   },
+   {
+      "twitter" : "",
+      "id" : {
+         "value" : "xblanc"
+      },
+      "bio" : "Xavier Blanc est professeur à l'Université de Bordeaux. Il possède une solide connaissance dans le domaine du génie logiciel et plus particulièrement dans la maintenance et l'évolution logicielle. Nommé au LaBRI (Laboratoire Bordelais de Recherche en Informatique) en 2010, il a eu la charge de monter une équipe de recherche dans ce domaine. Cette équipe est aujourd'hui reconnue au niveau international grâce aux résultats de recherche obtenus. Xavier Blanc a été nommé membre junior de l'Institut Universitaire de France en 2015",
+      "lastName" : "Blanc",
+      "urlAvatar" : "https://lh3.googleusercontent.com/rTNpOhK5Bl5_1KbFPc1QimgyNJ9w_rw3sURHmckfCktOChageNsNmolE8qfspBEnr6efrV6ZWFZmx55GCgoavn8z9ZRkq77jYZP2ZsUR9vUXruiSyZgHItNJqXgOJnEAesnLcIISwdq7KUUQeXAPKkM4oAirydhBIUOXsKjN1yf2pq9CVF2hAIoqLTBxcPY2sAApouXWRsqfxi3e-aZK-5ZsTTAuBFw1sVjDRWZcF8yeGrObC7x9ogEkH8NhbXi9ZydJV8Kl8geo3ZYYVtBr12Ap4HHK0Siw9et7_RobCkFtMtg42I-QMoaxvqO-2SW5FecUJdqqBKIRwp6Si029-84A-ts1D_0hWm2n7p5ws89rcwm3CIj7r15gSrtgerNqeLXtQaLj3SGj5bHYhvL6793c_9x2Y40EIqEuFGPFrdOErCUsVFsmV3EsHkn7BWJhFQMMy8hRohX6wX96XTIFMDBYwygzohpN9jZA99eGfTr7U1-c-Fo0xdsFEcFHYWFDdM9bSWc60dou3aY_FXlye2M-4C3gK8YvWGPY2JfoujHrIqv9vc8yl2NrDs0h57xhaW-JfHBTyE1euMwJvZVQxnVbeAoLj3rLjW55tW9bMBZcvSMpKPVF84ArcoZBi6cUDlY9tPITcENxtOIQjknamMBUCv1UKzc9UUI=s200-no",
+      "firstName" : "Xavier"
+   },
+   {
+      "lastName" : "Blondy",
+      "urlAvatar" : "https://lh5.googleusercontent.com/_apLykarZbI4/TWLP6ysLjRI/AAAAAAAAAlw/LtR3dO3RNJ0/s144/Avatar.jpg",
+      "firstName" : "Sébastien",
+      "twitter" : "",
+      "id" : {
+         "value" : "sblondy"
+      },
+      "bio" : "Ingénieur Informaticien diplômé de l’ENIB en 2006, Sébastien BLONDY a travaillé successivement pour CIMPA et Clever Age en tant que consultant Java/JEE. C’est sa passion pour ce langage qui l’amène à intervenir au JUG de Bordeaux."
+   },
+   {
+      "id" : {
+         "value" : "gboissinot"
+      },
+      "twitter" : "",
+      "bio" : "Grégory Boissinot est consultant Zenika, un cabinet d'architecture informatique spécialisé dans le conseil et la réalisation de solutions basées sur les nouvelles technologies.\r\nIl est un spécialiste des outils de build et des problématiques d'intégration continue qu'il a mis en place à grande échelle. Il possède une expérience industrielle grand compte de ces problématiques et contribue activement à la communauté Open Source dans ce domaine en étant l'un des principaux commiteurs Jenkins/Hudsons.\r\nEvangéliste Gradle, Grégory est convaincu de l'apport de cet outil de build à la réussite des projets",
+      "lastName" : "Boissinot",
+      "urlAvatar" : "https://lh6.googleusercontent.com/_apLykarZbI4/TWrhrPhznYI/AAAAAAAAAm0/SoszdiseaFM/s128/gregory_boissinot.png",
+      "firstName" : "Grégory"
+   },
+   {
+      "firstName" : "Mathieu",
+      "lastName" : "Brouillard",
+      "urlAvatar" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6csVaLIbD1BlbNEHXH-_SO-EmexPizIi2jS7o4HNT8w4LsCKvZE8GbA",
+      "bio" : "Référent Java/JEE au sein d'AGFA Healthcare, Matthieu est un développeur exigeant & passioné par tout ce qui touche de près ou de loin à Java (voir de très loin quand il s'agit de JS).\nC'est un fervent défenseur & un acteur impliqué dans l'OSS. De <a href=\"http://ant.apache.org/ivy/\" target=\"_blank\">Apache Ivy</a>, du temps de Jayasoft, à <a href=\"https://github.com/jgitver/jgitver\" target=\"_blank\">jgitver</a> aujourd'hui, en passant par <a href=\"https://github.com/gitbucket/gitbucket\" target=\"_blank\">gitbucket</a> ou encore <a href=\"https://github.com/mcfoggy/cssfx\" target=\"_blank\">cssfx</a> Matthieu s'illustre avec passion et engagement dans différents projets collaboratif",
+      "twitter" : "",
+      "id" : {
+         "value" : "mbrouillard"
+      }
+   },
+   {
+      "firstName" : "David",
+      "urlAvatar" : "https://lh5.googleusercontent.com/6I_vg7SCFPjFSNjt3RJBwnvZ-DVhgHJ7TwO0ove51sM=s207-p-no",
+      "lastName" : "Bruant",
+      "twitter" : "@davidbruant",
+      "id" : {
+         "value" : "dbruant"
+      },
+      "bio" : "Passionné de technologies web, David Bruant a trainé pas mal sur les mailings-list des standards de ces mêmes technologies. Convaincu par la philosophie des logiciels libres, il est naturellement devenu actif dans les communautés Mozilla et contribue souvent au Mozilla Developer Network, wiki de documentation multilingue en licence Creative Commons incontournable des développeurs web. La combinaison des deux est ce qui lui a permi d'obtenir de l'expérience dans les technologies web et du langage JavaScript en particulier. "
+   },
+   {
+      "lastName" : "Camblor",
+      "urlAvatar" : "https://pbs.twimg.com/profile_images/378800000759015070/cb819fce4817052c11c7983fe932d210.png",
+      "firstName" : "Frédéric",
+      "bio" : "Bordeaux JUG leader à la retraite, créateur de la conférence BDX I/O depuis 2014, Frédéric aime cotoyer les différentes communautés tech et apprendre de nouvelles choses. Développeur web chez 4SH le jour, et commiter sur RestX et (feu) des plugins Jenkins la nuit, il est extrêmement enthousiaste d'enfin voir arriver du typage statique sur le front avec Typescript.",
+      "twitter" : "@fcamblor",
+      "id" : {
+         "value" : "fcamblor"
+      }
+   },
+   {
+      "urlAvatar" : "http://lh6.ggpht.com/_apLykarZbI4/TIYfx3qI2FI/AAAAAAAAAic/D9IebIbXKDU/s144/michael-chaize-2-small.jpg",
+      "lastName" : "Chaize",
+      "firstName" : "Michaël",
+      "bio" : "Michaël Chaize est Flash Platform Evangelist pour Adobe. Il représente la technologie Flash et le framework Flex en Europe et rencontre pour cela de nombreux développeurs JAVA, PHP et des grands comptes. Avant d'occuper ces fonctions, il travaillait en tant qu'avant-vente technique de la solution Flex chez des grands comptes du CAC40, et les accompagnait dans leurs efforts de migration vers les Rich Internet Applications. Vous pouvez suivre ses expériences sur son blog, http://www.riagora.com.",
+      "twitter" : "",
+      "id" : {
+         "value" : "mchaize"
+      }
+   },
+   {
+      "firstName" : "Cédric",
+      "lastName" : "Champeau",
+      "urlAvatar" : "https://lh3.googleusercontent.com/-1yNrqIg20RA/VTitUXNMnvI/AAAAAAAABkY/9g_33cO8dIE/s512/Cedric%2520Champeau.jpeg",
+      "twitter" : "",
+      "id" : {
+         "value" : "cchampeau"
+      },
+      "bio" : "Cédric Champeau est aujourd'hui employé par Gradle pour développer le projet open-source éponyme. Il est aussi committer Apache Groovy et a été employé à plein temps par Pivotal pour développer le langage, après avoir passé plusieurs années à l'exploiter de manière industrielle chez un éditeur de logiciel, Lingway, dans de multiples contextes (TALN, DSL, scripting, workflows...). Il a notamment développé le type checker et le compilateur statique qui ont fait leur apparition dans Groovy 2, le support Android du langage ainsi que de nombreux outils pour faciliter la création de DSLs en Groovy."
+   },
+   {
+      "bio" : "Titulaire d'un doctorat en Traitement du Signal, Yannick Chartois a quitté le monde de la recherche en 2007 pour aller se balader en Irlande, à son retour, il a profité du peu de débouchés dans le secteur des télécoms pour se recycler dans sa passion de toujours: le développement. Il a appris Java en préparant la SCJP 1.6 fin 2009, depuis il passe mon temps libre à se former sur les technos web et sur ce qui tourne sur la JVM pour essayer de rattraper son retard! En ce moment il s'intéresse particulièrement à Scala, Play! Framework et AngularJS.\r\nJusqu'à peu Expert Technique pour le compte d' SQLI Bordeaux, il vient de quitter cette super équipe pour préparer son expatriation outre-altantique, et repartir vers de nouvelles aventures.\r\nIl est aussi membre du JUG Bordeaux et de l'association Fier d'être développeur.",
+      "twitter" : "@ychartois",
+      "id" : {
+         "value" : "ychartois"
+      },
+      "firstName" : "Yannick",
+      "urlAvatar" : "https://lh6.googleusercontent.com/-RkcJuS3jKmc/UnQTtHuEB2I/AAAAAAAABGE/vthERtbhTLA/s337-no/photo_Yannick_Chartois.jpg",
+      "lastName" : "Chartois"
+   },
+   {
+      "lastName" : "Chatel",
+      "urlAvatar" : "https://lh4.googleusercontent.com/aRxXitnCnJlsIFWNsdESrI5WjfQl5cwQZCw1zyyUhQY=s207-p-no",
+      "firstName" : "Thierry",
+      "bio" : "Thierry est consultant indépendant (MethoTIC Conseil) en architecture des logiciels de gestion, et formateur AngularJS.\r\nIl est très attaché aux bonnes pratiques de conception et développement qui soutiennent la qualité interne des logiciels, et les rend faciles à maintenir et à faire évoluer.\r\nPionnier d’AngularJS en France, il est convaincu dès le début que ce framework constitue une véritable révolution dans le développement d’applications web. Afin de le faire connaître, il a créé le blog technique francophone FrAngular et de la communauté AngularJS France sur Google+, et anime régulièrement des conférences.\r\nDepuis quelques mois, il œuvre surtout à former des développeurs à AngularJS à travers toute la France et même au-delà, aussi bien pour des PME que des grands comptes.",
+      "twitter" : "",
+      "id" : {
+         "value" : "tchatel"
+      }
+   },
+   {
+      "id" : {
+         "value" : "schin"
+      },
+      "twitter" : "",
+      "bio" : "Stephen Chin is Director of Oracle Technology Network, author of Raspberry Pi with Java, co-author of Pro JavaFX Platform, and JavaOne/Oracle Code Community Chair. He has keynoted numerous Java conferences around the world including JavaOne, where he is a 7-time Rock Star Award recipient. Stephen is an avid motorcyclist who has done several Pan-European evangelism tours, interviewing hackers in their natural habitat and posting the videos on http://nighthacking.com/. When he is not traveling, he enjoys teaching kids how to do embedded and robot programming together with his 14 year old daughter.",
+      "urlAvatar" : "https://lh4.googleusercontent.com/-QoQctln0tTw/Uxtg2lFmIEI/AAAAAAAABQE/PNSi3tuPi4o/s500/Stephen%2520Chin.jpg",
+      "lastName" : "Chin",
+      "firstName" : "Stephen"
+   },
+   {
+      "bio" : "Nicolas Comet est ingénieur d'études au département R&D chez Lectra, numéro un mondial des solutions dédiées à l'industrie textile (machines & logiciels).\nIl a maintenant plus de 5 ans d'expérience dans le développement avec un début comme consultant dans une SSII.\nSon langage de prédilection est Java et les specs JavaEE. Curieux de tout, il passe son temps à apprendre. Il aime MongoDB, les architectures microservices.\nIl développe sur son temps libre des applications RESTFul (front et backend) pour des associations, en mettant en pratique de nouvelles technos.",
+      "id" : {
+         "value" : "ncomet"
+      },
+      "twitter" : "@NicolasComet ",
+      "lastName" : "Comet",
+      "urlAvatar" : "https://lh3.googleusercontent.com/xEj5Pl6NRDHb0Cc7BxSpU4d2PoUIcajUYKcdVVv81SFJwMRpGWs=s252-no",
+      "firstName" : "Nicolas"
+   },
+   {
+      "firstName" : "Team",
+      "lastName" : "Crash'Teq",
+      "urlAvatar" : "https://lh3.googleusercontent.com/tq5B5-T4_SzklflxFjvy8nm71HNwiQrfohjk8jnf1i8nq7-kV_q1OvyleHCdxRsCJCaPpt1h9ISP5Wy1AYNXMqYrXpN0nJz51TsC-_4f82YKkqmRoCzCXjahzjb5c6zeN0fsjxFL5w=w1054-h703-no",
+      "bio" : "Venant du Luxembourg",
+      "id" : {
+         "value" : "crashteq"
+      },
+      "twitter" : ""
+   },
+   {
+      "firstName" : "Olivier",
+      "lastName" : "Croisier",
+      "urlAvatar" : "http://lh5.ggpht.com/_apLykarZbI4/TNcjFj63zdI/AAAAAAAAAjs/kWwuNzpogMU/photo_Olivier%20Croisier.jpg",
+      "bio" : "Olivier Croisier est un expert Java certifié, formateur, blogger et conférencier. Fort de plus de 11 ans d'expérience en SSII, il intervient désormais en freelance sous le label Moka Technologies.\r\nArchitecte full-stack et spécialiste de Spring/Hibernate/HTML5, il accompagne ses clients dans la conception, l'implémentation et l'optimisation de leurs applications critiques.\r\nOlivier pratique enfin une veille technologique permanente, qu'il diffuse et vulgarise sur son blog The Coder's Breakfast, dans les conférences (Devoxx, JUGs) et bien sûr auprès des équipes qu'il intègre !",
+      "twitter" : "",
+      "id" : {
+         "value" : "ocroisier"
+      }
+   },
+   {
+      "bio" : "Développeur / Consultant / TechLead / Extrem-Programmer / Craftsman.\r\nCurieux des meilleures méthodes de développement (TDD, revues de codes, pair programming) et soucieux de toujours produire du meilleur code que l'année dernière.\r\nMembre d'Okiwi, actuellement en mission de coaching chez CDiscount.",
+      "id" : {
+         "value" : "flamarque"
+      },
+      "twitter" : "@Fabinout",
+      "lastName" : "Lamarque",
+      "urlAvatar" : "data:image/jpeg;base64,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",
+      "firstName" : "Fabien"
+   },
+   {
+      "twitter" : "",
+      "id" : {
+         "value" : "mleveneut"
+      },
+      "bio" : "Dans le monde Java depuis 16 ans et notamment les petits coins de Spring, microservices, NoSQL et Cloud, Michaël est un passionné qui aime découvrir de nouvelles technologies ou méthodes de travail.\nActuellement freelance, il travaille à mettre en place des architectures microservices et NoSQL avec les technologies du moment (Spring Boot, Kafka, Cassandra, MongoDB, stack Netflix, NodeJS, Kubernetes, Helm, RabbitMQ, ...)",
+      "firstName" : "Mickaël",
+      "lastName" : "Leneveut",
+      "urlAvatar" : "https://lh3.googleusercontent.com/sUVsMO1XaAqI0RjYF9kb9Fb4J5a62XOQGBghDDXGbh8AifGAlh13WP_T8vmmERZX52pvcpWfqysChb9l-QIQWuxP4fL0DKsZMj5woi72hOvLozc0UHDvrdlqQ38Btw5AmxZyoV5FvA=w660-h880-no"
+   },
+   {
+      "twitter" : "",
+      "id" : {
+         "value" : "tsegismont"
+      },
+      "bio" : "Chez Red Hat depuis 2012 et membre de l'équipe Vert.x depuis 2016. Je m'occupe particulièrement du clustering et du monitoring. Développeur depuis près de 15 ans, j'ai travaillé sur des projets de toutes tailles, dans la finance, le tourisme, la banque, l'hébergement. Je vis à Marseille avec ma femme et nos 4 enfants. A part ça j'essaie de devenir un meilleur guitariste et un meilleur judoka",
+      "firstName" : "Thomas",
+      "urlAvatar" : "https://lh3.googleusercontent.com/gbfdQtj9EgTcB16Q-MpgJH2RqqGbd_3CEBZPaxPKQSvjITzHnfFQRSLgD_uOdzTCuXH3wpadkk4q=s80-no",
+      "lastName" : "Segismont"
+   }
+]
