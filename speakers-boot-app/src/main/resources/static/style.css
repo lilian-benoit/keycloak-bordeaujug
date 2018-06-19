@@ -1,0 +1,23 @@
+body {
+    padding-top: 5rem;
+}
+.welcome {
+    padding: 3rem 1.5rem;
+    text-align: center;
+}
+.speakers {
+    list-style: none;
+}
+.speaker {
+    display: inline;
+}
+.speaker img {
+    height: 200px;
+    max-width: 200px;
+}
+
+.bg-dark {
+    background-color: #4b0b68 !important;
+}
+
+
