@@ -10,6 +10,10 @@ import java.util.Map;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
+import org.keycloak.adapters.AdapterDeploymentContext;
+import org.keycloak.adapters.KeycloakDeployment;
+import org.keycloak.adapters.spi.HttpFacade;
+import org.keycloak.adapters.springsecurity.facade.SimpleHttpFacade;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;
@@ -23,9 +27,11 @@ import com.fasterxml.jackson.databind.ObjectMapper;
 public class SpeakersController {
 
     private final ObjectMapper objectMapper;
+    private final AdapterDeploymentContext deploymentContext;
 
-    SpeakersController(ObjectMapper objectMapper) {
+    SpeakersController(ObjectMapper objectMapper, AdapterDeploymentContext deploymentContext) {
         this.objectMapper = objectMapper;
+        this.deploymentContext = deploymentContext;
     }
 
     @GetMapping("/")
@@ -49,7 +55,11 @@ public class SpeakersController {
 
     @GetMapping("/change-password")
     public String changePassword(RedirectAttributes attributes, HttpServletRequest request, HttpServletResponse response) {
-        return "err501";
+    	HttpFacade facade = new SimpleHttpFacade(request, response);
+    	KeycloakDeployment deploy = deploymentContext.resolveDeployment(facade);
+    	attributes.addAttribute("referrer", deploy.getResourceName());
+    	attributes.addAttribute("referrer_uri", "http://" + request.getServerName() + ":" + request.getServerPort() + "/" );
+        return "redirect:" + deploy.getAccountUrl() + "/password";
     }
 
 }
