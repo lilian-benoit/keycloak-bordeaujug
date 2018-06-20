@@ -6,4 +6,24 @@
 	<welcome-file-list>
 		<welcome-file>index.html</welcome-file>
 	</welcome-file-list>
+	
+	<security-constraint>
+		<web-resource-collection>
+			<web-resource-name>WS REST</web-resource-name>
+			<url-pattern>/rest/*</url-pattern>
+		</web-resource-collection>
+		<auth-constraint>
+			<role-name>user</role-name>
+		</auth-constraint>
+	</security-constraint>
+
+	<login-config>
+		<auth-method>KEYCLOAK</auth-method>
+		<realm-name>CEQUELONVEUT</realm-name>
+	</login-config>
+		
+	<security-role>
+		<role-name>user</role-name>
+	</security-role>
+	
 </web-app>
