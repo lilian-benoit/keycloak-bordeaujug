@@ -1,0 +1,124 @@
+= Mettre en place simplement la sécurité de ces applications (Front et Back) avec Keycloak
+Lilian BENOIT - 
+Juin 2018
+
+
+== Objectif 
+Ce dépôt contient la présentation et les exemples utilisés pendant la soirée du BordeauxJUG.
+
+Le dépôt possède plusieurs branches pour chacune des différentes étapes de sécurisation des applications. 
+ * master    : Document et support de la présentation
+ * etape_1-x : Application SprintBoot
+ * etape_2-x : Services Web JAX-RS
+ * etape_3-x : Application Angular
+
+Pour l'application Sprint-boot et JAX-RS, ils existent des branches particulières pour passer d'une version non sécurisé à une version sécurisé via Keycloak
+
+== Pré-requis
+
+* JDK Oracle 1.8.0_131
+* Keycloak 3.4.3
+* Wildfly 10.1.0.Final
+
+== Installation des programmes
+
+Les binaires peuvent télécharger sur le site de l'éditeur http://www.keycloak.org et http://www.wildfly.org
+
+Il est aussi possible de récupération des binaires via Maven. Le pom.xml du projet est configuré pour récupérer les archives et les placer dans le répertoire target/binaires.
+
+[source,bash]
+----
+mvn package
+----
+
+Décompression des archives. Se placer à la racine du projet
+
+[source,bash]
+----
+tar xzvf target/binaires/keycloak-server-dist-3.4.3.Final.tar.gz
+tar xzvf target/binaires/wildfly-dist-10.1.0.Final.tar.gz
+----
+
+== Démarrage du serveur Keycloak
+
+Pour démarrer le serveur keycloak
+
+[source,bash]
+----
+source setenv.sh
+cd keycloak-server-3.4.3.Final
+bin/standalone.sh
+----
+
+Pour démarrer le serveur wildfly
+
+[source,bash]
+----
+source setenv.sh
+cd wildfly-10.1.0.Final
+bin/standalone.sh -Djboss.socket.binding.port-offset=100
+----
+
+L'option *jboss.socket.binding.port-offser* permet de décaler tous les ports de Wildfly de 100.
+
+== Applications 
+
+=== Speakers boot app
+
+===== 1. Compilation
+
+[source,bash]
+----
+mvn package
+----
+
+===== 2. Execution
+
+Execution via l'IDE : fr.lbenoit.presentation.keycloak.bootapp.SpeakersBootAppApplication
+
+===== 3. Différentes étapes :
+
+* etape 1-0 : Application sans sécurité et sans fichier speakers.json
+* etape 1-1 : Présence du fichiers speakers.json
+* etape 1-2 : Sécurisation de l'application par keycloak
+* etape_1-3 : Activation du login et du logout
+* etape_1-4 : Activation du lien vers le service account (Changement de mot de passe)
+
+
+= Speakers rest
+
+===== 1. Compilation
+
+[source,bash]
+----
+mvn package
+----
+
+===== 2. Execution
+
+Déploiement dans un serveur d'application. (Testé sous Wildfly)
+
+===== 3. Différentes étapes :
+
+* etape 2-0 : Mise en place du WS REST sans sécurité
+* etape 2-1 : Implémentation de la méthode getAllSpeakers()
+* etape 2-2 : Sécurisation du WS par keycloak
+
+= Speakers web
+
+===== 1. Compilation
+
+[source,bash]
+----
+mvn package
+----
+
+===== 2. Execution
+
+L'application angularjs est packagée dans un module web pour faciliter
+Déploiement dans un serveur d'application. (Testé sous Wildfly)
+
+===== 3. Différentes étapes :
+
+* etape 3-0 : Mise en place de l'application AngularJS sécurisé
+
