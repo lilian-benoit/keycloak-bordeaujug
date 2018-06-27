@@ -7,12 +7,16 @@ Juin 2018
 Ce dépôt contient la présentation et les exemples utilisés pendant la soirée du BordeauxJUG.
 
 Le dépôt possède plusieurs branches pour chacune des différentes étapes de sécurisation des applications. 
+
  * master    : Document et support de la présentation
  * etape_1-x : Application SprintBoot
  * etape_2-x : Services Web JAX-RS
  * etape_3-x : Application Angular
 
 Pour l'application Sprint-boot et JAX-RS, ils existent des branches particulières pour passer d'une version non sécurisé à une version sécurisé via Keycloak
+
+La présentation lors du BordeauxJUG est disponible :
+include::presentation/Keycloak-Presentation-BordeauxJUG.pdf
 
 == Pré-requis
 
