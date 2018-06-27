@@ -16,7 +16,7 @@ Le dépôt possède plusieurs branches pour chacune des différentes étapes de 
 Pour l'application Sprint-boot et JAX-RS, ils existent des branches particulières pour passer d'une version non sécurisé à une version sécurisé via Keycloak
 
 La présentation lors du BordeauxJUG est disponible :
-link::https://github.com/lilian-benoit/keycloak-bordeaujug/blob/master/presentation/Keycloak-Presentation-BordeauxJUG.pdf[Présentation]
+https://github.com/lilian-benoit/keycloak-bordeaujug/blob/master/presentation/Keycloak-Presentation-BordeauxJUG.pdf
 
 == Pré-requis
 
